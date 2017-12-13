@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "BebasNeueBold";
+  src: url ("fonts/bebas_neue/BebasNeueBold.otf");
+}
+form input{
+  width: 800px;
+  height: 30px;
+  display: block;
+  margin: 0 auto;
+  font-family:"bebas-neue";
+  font-size: 25px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  text-align: center;
+}
+.ligne{
+  width: 100px;
+  height: 6px;
+  background-color: blue;
+  display: block;
+  margin: 0 auto;
+}
+
+textarea{
+  width: 800px;
+  height: 1000px;
+  display: block;
+  margin: 0 auto;
+  font-family:"Roboto";
+  font-size: 14px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  text-align: left;
+  line-height: 15px;
+
+}
